@@ -6,5 +6,6 @@
 # If no input, continue moving in that direction or initial position
 # If APPLE + Snake is present on the same tile -> Increase snake length by 1 tile parrelel to last tile of snake 
 # If 2 snake tiles are present on 1 tile ; end game
-# If snake tile hit 
+# If no input while snake tile is in contact with border -> end game
+
 
